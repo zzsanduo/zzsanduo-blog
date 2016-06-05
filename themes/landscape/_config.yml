@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+rss: https://feedburner.google.com/fb/a/mailverify?uri=ZzsanduosBlog&amp;loc=en_US
 
 # Content
 excerpt_link: Read More
